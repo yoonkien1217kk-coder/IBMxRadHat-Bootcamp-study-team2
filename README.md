@@ -42,7 +42,7 @@ for  learning JavaScrit and SQLD
 <td><a href="">유민 블로그</td>
 <td><a href="">지민 블로그</td>
 <td><a href="">건일 블로그</td>
-<td><a href="">기은 블로그</td>
+<td><a href="https://share.novela.so/file/698b04848d3e7b4c0b4dcd1f">기은 블로그</td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ for  learning JavaScrit and SQLD
 * 유민 <a href="">JS-호이스팅에 대한 문서화 자료</a>
 * 지민 <a href="">JS-호이스팅에 대한 문서화 자료</a>
 * 건일 <a href="">JS-호이스팅에 대한 문서화 자료</a>
-* 기은 <a href="">JS-호이스팅에 대한 문서화 자료</a>
+* 기은 <a href="https://share.novela.so/file/698b04848d3e7b4c0b4dcd1f">JS-호이스팅에 대한 문서화 자료</a>
 <br>
 
 
